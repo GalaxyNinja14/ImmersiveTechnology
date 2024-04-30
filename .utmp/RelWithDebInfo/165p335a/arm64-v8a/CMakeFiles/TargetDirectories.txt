@@ -1,0 +1,8 @@
+/Users/nathanstockdale/Documents/GitHub/ImmersiveTechnology/.utmp/RelWithDebInfo/165p335a/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/nathanstockdale/Documents/GitHub/ImmersiveTechnology/.utmp/RelWithDebInfo/165p335a/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/nathanstockdale/Documents/GitHub/ImmersiveTechnology/.utmp/RelWithDebInfo/165p335a/arm64-v8a/GameActivity/CMakeFiles/game.dir
+/Users/nathanstockdale/Documents/GitHub/ImmersiveTechnology/.utmp/RelWithDebInfo/165p335a/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+/Users/nathanstockdale/Documents/GitHub/ImmersiveTechnology/.utmp/RelWithDebInfo/165p335a/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
+/Users/nathanstockdale/Documents/GitHub/ImmersiveTechnology/.utmp/RelWithDebInfo/165p335a/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+/Users/nathanstockdale/Documents/GitHub/ImmersiveTechnology/.utmp/RelWithDebInfo/165p335a/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+/Users/nathanstockdale/Documents/GitHub/ImmersiveTechnology/.utmp/RelWithDebInfo/165p335a/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir
